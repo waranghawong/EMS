@@ -5,9 +5,13 @@
 3rd Step: Paste in xampp/htdocs/
 
 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+
 5th Step: Then, click on the databases tab
+
 6th Step: Create a database naming “ems” and then click on the import tab
+
 7th Step: Click on browse file and select “ems.sql” file which is inside the “ems” folder
+
 8th Step: Click on go.
 
 After Creating Database,
